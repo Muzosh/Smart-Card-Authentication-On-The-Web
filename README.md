@@ -1,4 +1,4 @@
-# Smart-Card-Authentication-On-The-Web
+# Smart Card Authentication On The Web
 This is a top-level/index repository for implementing smart-card-enabled authentication in the web application and web services.
 
 ## Introduction
