@@ -8,7 +8,7 @@ An Estonian project called [Web-eID](https://web-eid.eu), which is currently bei
 
 Due to its open-source licence and modular desing, **I was able to customize this solution so a general web administrator can use this platform to implement smart card usage** (most commonly authentication and digital signature).
 
-It is a result of my diploma thesis (URL will be added later) as well as a contribution to the Web-eID community and my local academic project.
+It is a result of [my diploma thesis](http://hdl.handle.net/11012/208378) as well as a contribution to the Web-eID community and my local academic project.
 
 ## Where to?
 These repositories are part of this project:
