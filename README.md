@@ -12,7 +12,7 @@ It is a result of [my diploma thesis](http://hdl.handle.net/11012/208378) as wel
 
 ## Where to?
 These repositories are part of this project:
-* [Web-eID AuthToken Validation PHP](https://github.com/Muzosh/web-eid-authtoken-validation-php) - direct extension of the official [Web-eID repository](https://github.com/web-eid) for PHP back-end servers (validation libraries for Java and .NET web applications are already part of the Web-eID repository).
+* [Web-eID AuthToken Validation PHP](https://github.com/Muzosh/web-eid-authtoken-validation-php-original) - direct extension of the official [Web-eID repository](https://github.com/web-eid) for PHP back-end servers (validation libraries for Java and .NET web applications are already part of the Web-eID repository).
 * [Nextcloud Web-eID 2FA App](https://github.com/Muzosh/nextcloud_twofactor_webeid) - an installable application to Nextcloud cloud storage server enabling the usage of Web-eID for authenticating users into the web interface (can serve as an implementation example).
 * [InfinitEID JavaCard applet](https://github.com/Muzosh/InfinitEID) - a modern applet and administration console that can be installed on a blank and cheap JavaCard.
 * [LibElectronicID extension for InfinitEID](https://github.com/Muzosh/libelectronic-id/tree/feature-InfinitEID) - in order for Web-eID application to be able to communicate with InfinitEID, it needs to know the ATR and specific byte sequences for specific operations - these are specified in LibElectronicID interface (which is part of the Web-eID source code).
